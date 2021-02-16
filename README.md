@@ -1,4 +1,3 @@
-Hello everyone!
+Spring 2019 - AlbanyCanCode Donut Shop Project
 
-
-TEST
+Hosted at https://gc-westover.github.io/fewd_donut/
